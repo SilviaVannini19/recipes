@@ -1,10 +1,10 @@
-# Recipes about Anellini al forno
+# Recipes about Sicilian Pasta
 
 A couple of non-classical recipes for the Anellini. 
 
-- Vegan Anellini
-- Meat Anellini
-- Fusion Anellini
+- Anellini col forno
+- Anchovy Pasta
+- Norma Pasta
 
 1. Create the html page 
 2. Write some code
